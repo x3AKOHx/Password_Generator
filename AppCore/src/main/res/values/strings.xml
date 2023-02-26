@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Pass Holder</string>
+    <string name="my_passwords_paige_title">Мои пароли</string>
+    <string name="add_password_paige_title">Добавить пароль</string>
+    <string name="pass_copy_sucess">Пароль скопирован в буфер обмена</string>
+    <string name="any_copy_sucess">%1$s скопирован в буфер обмена</string>
+    <string name="text_copy_fail">Невозможно скопировать пустое поле</string>
+    <string name="title">Название</string>
+    <string name="pass">Пароль</string>
+    <string name="login">Логин</string>
+    <string name="add_button_text">Добавить</string>
+    <string name="generate_button_text">Сгенерировать пароль</string>
+    <string name="add_pass_success">Запись успешно добавлена</string>
+    <string name="add_pass_fail">Заполните хотя бы одно поле для добавления запси</string>
+</resources>
